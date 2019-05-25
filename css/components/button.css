@@ -1,0 +1,15 @@
+.btn-blue{
+  text-decoration: none;
+  color: rgb(71, 190,190);
+  font-family: 'Montserrat', serif;
+  font-weight: 400;
+  padding: 10px;
+  border-style: solid;
+  border-color: rgb(71, 190,190);
+  border-width: 1px;
+  transition: 0.3s ease;
+}
+.btn-blue:hover{
+  border-left-width: 7px;
+}
+
